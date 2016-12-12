@@ -1,0 +1,19 @@
+{
+  "name": "polling_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardsnowedin/Polling_App.git"
+  },
+  "author": "Matt Paz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwardsnowedin/Polling_App/issues"
+  },
+  "homepage": "https://github.com/edwardsnowedin/Polling_App#readme"
+}
